@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CutsceneChars
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CutsceneChars\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=destinationY
+comment2.target=void\ moveUp(int)
+comment3.params=destinationY
+comment3.target=void\ moveDown(int)
+comment4.params=destinationX
+comment4.target=void\ moveRight(int)
+comment5.params=destinationX
+comment5.target=void\ moveLeft(int)
+numComments=6

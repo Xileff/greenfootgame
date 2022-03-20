@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exclamation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Exclamation\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=paramBoss\ paramDuration
+comment1.target=Exclamation(Boss,\ int)
+comment1.text=\ public\ Exclamation(Enemy\ paramEnemy,\ int\ paramDuration){\r\n\ \ \ \ \ \ \ \ this.enemy\ \=\ paramEnemy;\r\n\ \ \ \ \ \ \ \ this.duration\ \=\ paramDuration;\r\n}
+comment2.params=paramMiniboss\ paramDuration
+comment2.target=Exclamation(Miniboss,\ int)
+comment3.params=paramNormalEnemy\ paramDuration
+comment3.target=Exclamation(Normal_Enemy,\ int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Stage2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Stage2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Stage2()
+comment2.params=character
+comment2.target=Stage2(Chars)
+comment3.params=paramArcher
+comment3.target=Stage2(Archer)
+comment4.params=paramPlayer
+comment4.target=Stage2(Player)
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment6.params=
+comment6.target=void\ spawnFirstEnemies()
+comment7.params=maxEnemies
+comment7.target=void\ spawnEnemiesStage2(int)
+comment8.params=
+comment8.target=Enemy\ randomEnemyStage2()
+comment9.params=
+comment9.target=void\ act()
+numComments=10

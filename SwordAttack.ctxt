@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SwordAttack
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ basicAttack\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player
+comment1.target=SwordAttack(Player)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ appear()
+comment4.params=
+comment4.target=void\ restoreMana()
+numComments=5

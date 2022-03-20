@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CooldownCounter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Timer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player\ prefix\ seconds
+comment1.target=CooldownCounter(Player,\ java.lang.String,\ int)
+comment2.params=archer\ prefix\ seconds
+comment2.target=CooldownCounter(Archer,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=int\ getValue()
+comment5.params=
+comment5.target=void\ positioning()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
